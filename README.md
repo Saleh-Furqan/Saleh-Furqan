@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey there! I'm a CS Student on an AI Quest<br><br>Currently in my second year at CUHK, I'm all about exploring the depths of full-stack development with a keen interest in backend technologies. My toolkit? A robust blend of React, MongoDB, NodeJS, Express, Bootstrap, Tailwind, with a little bit of Material UI. Fluent in Java, C, and C++, I'm now venturing into the fascinating world of AI and data science, aiming to merge my software engineering skills with the intelligence of tomorrow.<br><br>📚 Beyond Code<br><br>When the code editor is off, I'm either lost in a book, catching the latest movies, or hitting the gym. It's this balance that keeps my creativity flowing and my coding sharp.<br><br>💡 Collaborate and Innovate<br><br>I'm on GitHub to showcase my journey, collaborate on projects that make us think, and learn from the incredible community here. If you're passionate about making an impact and exploring the intersection of AI with software engineering, let's connect!
+🚀 Hey there! I'm a CS Student currently in my third year at CUHK. let's connect!
 
 
 ## 🌐 Socials:
